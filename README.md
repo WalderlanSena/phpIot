@@ -3,3 +3,6 @@
 </p>
 <h1 align="center"> Projeto PHPIot</h1>
 <p align="center">Scripts desenvolvidos em Php para utilização em projetos Iot especialmente com Arduíno</p>
+
+<h2><a href="https://github.com/WalderlanSena/phpIot/tree/master/phpuino">Phpuino</a></h2>
+Biblioteca Php para leitura e envio de dados na porta serial do arduino
