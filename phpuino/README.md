@@ -1,6 +1,6 @@
 <h1 align="center">Phpuino</h1>
 <p align="center">
-  <img src="http://walderlan.xyz/assets/stablePhp.svg">
+  <img src="https://github.com/WalderlanSena/tagsGit/blob/master/stablePhpuino.svg">
 </p>
 <p align="center">Biblioteca php para manipulação da porta serial do arduino</p>
 
